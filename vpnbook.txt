@@ -31,6 +31,7 @@ shri raam jay ram jay jay ram
 graphql and faunadb and mongo db
 
 expense trakker in process
+expense trakker is still in progress.... will continue after loban
 
 
 
